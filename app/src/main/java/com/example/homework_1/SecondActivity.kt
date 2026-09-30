@@ -33,7 +33,7 @@ class SecondActivity : ComponentActivity() {
         }
     }
 }
-
+// for checking
 @Composable
 fun SecondScreen(info: String, modifier: Modifier = Modifier) {
     Column(verticalArrangement = Arrangement.Center,
