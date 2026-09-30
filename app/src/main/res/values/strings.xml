@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework_1</string>
+    <string name="first_and_second_name">Якупов Риналь</string>
+    <string name="group">11-504</string>
+    <string name="button_text">Click me</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
