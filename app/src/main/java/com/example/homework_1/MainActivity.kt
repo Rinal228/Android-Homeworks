@@ -41,7 +41,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//for checking
 @Composable
 fun FirstScreen(modifier: Modifier = Modifier) {
     val context = LocalContext.current
