@@ -82,6 +82,7 @@ fun PlanetCard(
         }
     }
 }
+//
 @Composable
 fun FirstScreen(modifier: Modifier = Modifier, clickOnPlanet: (Int) -> Unit) {
     LazyColumn(modifier = modifier) {
