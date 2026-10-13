@@ -5,7 +5,7 @@ data class Planet(
     val description: String,
     val imageUrl: String
 )
-
+//
 val planets = listOf(
     Planet(
         name = "Меркурий",
