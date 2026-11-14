@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Homework_3</string>
+    <string name="switch_screen">Перейти на Второй экран</string>
+    <string name="delete_all">Удалить все</string>
+    <string name="Edit">Редактировать</string>
+    <string name="send_notification">Отправить уведомление</string>
+    <string name="non_cancellable">Non-cancellable</string>
+    <string name="text_of_notification">Текст уведомления</string>
+    <string name="title_of_notification">Заголовок уведомления</string>
+    <string name="got_to_settings">Перейти в настройки</string>
+    <string name="get_premission">Нужно предоставить разрешение на показ уведомлений</string>
+    <string name="get_coordinates">Получить координаты</string>
+    <string name="get_permission_to_location">Пожалуйста, предоставьте разрешение на доступ к геопозиции для работы функции</string>
+    <string name="click_to_button">Для определения координат нажмите на кнопку</string>
+    <string name="back">Назад</string>
+</resources>
